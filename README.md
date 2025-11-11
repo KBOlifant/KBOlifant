@@ -4,7 +4,7 @@
 
 <img src="https://img.shields.io/badge/YOUR_ROLE-YOUR_COLOR?style=flat-square&logo=YOUR_LOGO&logoColor=white" alt="Your Role" /> <img src="https://img.shields.io/badge/YOUR_TECH-YOUR_COLOR?style=flat-square&logo=YOUR_TECH_LOGO&logoColor=white" alt="Your Favorite Tech" /> <img src="https://img.shields.io/badge/YOUR_HOBBY-YOUR_COLOR?style=flat-square&logo=Programmer&logoColor=white" alt="Your Hobby" /> </p>
 
-<p align="center"> <img src="https://img.shields.io/badge/STATUS-Student-2E8B57?style=flat-square&logo=graduation-cap&logoColor=white" alt="Student" /> <img src="https://img.shields.io/badge/YEAR-202X-FF6B6B?style=flat-square&logo=calendar&logoColor=white" alt="Year" /> <img src="https://img.shields.io/badge/Time%20Zone-YOUR_TIMEZONE-FFA500?style=flat-square&logo=world&logoColor=white" alt="Time Zone" /> <img src="https://img.shields.io/badge/OS-Windows-000000?style=flat-square&logo=windows&logoColor=white" alt="OS" /> </p>
+<p align="center"> <img src="https://img.shields.io/badge/STATUS-Student-2E8B57?style=flat-square&logo=graduation-cap&logoColor=white" alt="Student" /> <img src="https://img.shields.io/badge/2027-Graduate-FF6B6B?style=flat-square&logo=calendar&logoColor=white" alt="Year" /> <img src="https://img.shields.io/badge/Time%20Zone-YOUR_TIMEZONE-FFA500?style=flat-square&logo=world&logoColor=white" alt="Time Zone" /> <img src="https://img.shields.io/badge/OS-Windows-000000?style=flat-square&logo=windows&logoColor=white" alt="OS" /> </p>
 
 👋 Hi, I'm Keabetswe Olifant
 I'm a fullstack developer based in Pretoria, South Africa. I'm passionate about Software Engineering and Making Useful applications. Welcome to my profile!
