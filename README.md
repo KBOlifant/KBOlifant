@@ -16,7 +16,7 @@ I'm a fullstack developer based in Pretoria, South Africa. I'm passionate about 
 
 💬 Ask me about React Development..
 
-```✦ Skills ✦```
+# ``` ✦ Skills & Tech Stack✦```
 
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -39,19 +39,29 @@ I'm a fullstack developer based in Pretoria, South Africa. I'm passionate about 
 ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 
-<p style="font-size: 12px; color: #666; font-style: italic; margin: 5px 0;">*Percentages represent relative confidence, not absolute proficiency</p>
-
 <br /> <br />
 
-✦ Tech Stack Experience ✦
-Languages & Frameworks
-Databases
-UI/UX & Styling
-Tools & Testing
-<br /> <br />
+# ✦ 2025 Repositories ✦
 
-✦ Portfolio ✦
-Project Title
+## Analysis One
+A 1-3 sentence description of your project. What does it do? What problem does it solve? What was your role?
+
+Technologies Used: [Tech 1], [Tech 2], [Tech 3], [Tech 4]
+
+View Repository | Live Demo
+
+<br />
+
+## Psychedelic Pixels
+A 1-3 sentence description of your project. What does it do? What problem does it solve? What was your role?
+
+Technologies Used: [Tech 1], [Tech 2], [Tech 3], [Tech 4]
+
+View Repository | Live Demo
+
+<br />
+
+## Court Clinic
 A 1-3 sentence description of your project. What does it do? What problem does it solve? What was your role?
 
 Technologies Used: [Tech 1], [Tech 2], [Tech 3], [Tech 4]
