@@ -16,7 +16,7 @@ I'm a fullstack developer based in Pretoria, South Africa. I'm passionate about 
 
 💬 Ask me about React Development..
 
-///✦ Skills ✦///
+```✦ Skills ✦```
 
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
