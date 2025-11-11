@@ -18,15 +18,15 @@ I'm a fullstack developer based in Pretoria, South Africa. I'm passionate about 
 
 ✦ Skills ✦
 
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=c-sharp&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-.NET-informational?style=flat&logo=.net&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss)
+![Tailwind CSS](https://img.shields.io/badge/Code-Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![React](https://img.shields.io/badge/Code-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/Code-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/Code-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Code-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![CSharp](https://img.shields.io/badge/Code-CSharp-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/Code-.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![MongoDB](https://img.shields.io/badge/Code-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/Code-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 <p style="font-size: 12px; color: #666; font-style: italic; margin: 5px 0;">*Percentages represent relative confidence, not absolute proficiency</p>
 
