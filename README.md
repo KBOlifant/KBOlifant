@@ -26,7 +26,7 @@ I'm a fullstack developer based in Pretoria, South Africa. I'm passionate about 
 ![](https://img.shields.io/badge/Code-.NET-informational?style=flat&logo=.net&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-MySQL-TailwindCSS-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-TailwindCSS-Tailwind-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
 
 <p style="font-size: 12px; color: #666; font-style: italic; margin: 5px 0;">*Percentages represent relative confidence, not absolute proficiency</p>
 
