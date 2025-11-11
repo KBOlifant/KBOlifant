@@ -27,6 +27,14 @@ I'm a fullstack developer based in Pretoria, South Africa. I'm passionate about 
 ![.NET](https://img.shields.io/badge/Code-.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/Code-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/Code-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/Code-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Code-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![JQuery](https://img.shields.io/badge/Code-JQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![Axios](https://img.shields.io/badge/Code-Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
+![Node.js](https://img.shields.io/badge/Code-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Supabase](https://img.shields.io/badge/Code-Supabase-3E8E6E?style=for-the-badge&logo=supabase&logoColor=white)
+![Express](https://img.shields.io/badge/Code-Express-000000?style=for-the-badge&logo=express&logoColor=white)
+
 
 <p style="font-size: 12px; color: #666; font-style: italic; margin: 5px 0;">*Percentages represent relative confidence, not absolute proficiency</p>
 
