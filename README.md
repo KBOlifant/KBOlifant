@@ -6,21 +6,15 @@
 
 <p align="center"> <img src="https://img.shields.io/badge/STATUS-Student-2E8B57?style=flat-square&logo=graduation-cap&logoColor=white" alt="Student" /> <img src="https://img.shields.io/badge/YEAR-202X-FF6B6B?style=flat-square&logo=calendar&logoColor=white" alt="Year" /> <img src="https://img.shields.io/badge/Time%20Zone-YOUR_TIMEZONE-FFA500?style=flat-square&logo=world&logoColor=white" alt="Time Zone" /> <img src="https://img.shields.io/badge/OS-YOUR_OS-000000?style=flat-square&logo=apple&logoColor=white" alt="OS" /> </p>
 
-👋 Hi, I'm [Your Name]
-I'm a [Your Role] based in [Your Location]. I'm passionate about [Your Passion 1] and [Your Passion 2]. Welcome to my profile!
+👋 Hi, I'm Keabetswe Olifant
+I'm a fullstack developer based in Pretoria, South Africa. I'm passionate about Software Engineering and Making Useful applications. Welcome to my profile!
 
 🚀 What I'm Up To
 🌱 I’m currently learning [Technology/Skill].
 
-👯 I’m looking to collaborate on [Type of Project].
+💼 I’m open to Job Opportunities / Freelance Projects In the Software Engineering or Fullstack Development field.
 
-🤔 I’m looking for help with [A Topic or Project].
-
-💼 I’m open to [Job Opportunities / Freelance Projects].
-
-💬 Ask me about [Your Area of Expertise].
-
-📫 How to reach me: [Your Preferred Contact].
+💬 Ask me about React Development..
 
 ✦ Skills ✦
 [Your Skill 1]
