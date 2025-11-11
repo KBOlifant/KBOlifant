@@ -37,7 +37,7 @@ I'm a fullstack developer based in Pretoria, South Africa. I'm passionate about 
 ![Figma](https://img.shields.io/badge/Code-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![PHP](https://img.shields.io/badge/Code-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/Code-Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
-![Framer Motion](httpshttps://img.shields.io/badge/Code-Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Code-Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 
 <p style="font-size: 12px; color: #666; font-style: italic; margin: 5px 0;">*Percentages represent relative confidence, not absolute proficiency</p>
 
