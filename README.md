@@ -44,11 +44,9 @@ I'm a fullstack developer based in Pretoria, South Africa. I'm passionate about 
 # ✦ 2025 Repositories ✦
 
 ## Analysis One
-A 1-3 sentence description of your project. What does it do? What problem does it solve? What was your role?
+An F1 Tracker App where you can keep track of F1 Events and details and compare metrics between teams to settle debates quickly and effectively with useful charts and clear data management. This app features a timeline feature that can gather up historical data about your favourite F1 team and see how they have improved over the years. Have a look below to have all your statistical questions about your F1 team answered.
 
-Technologies Used: [Tech 1], [Tech 2], [Tech 3], [Tech 4]
-
-View Repository | Live Demo
+Explore Repository
 
 <br />
 
