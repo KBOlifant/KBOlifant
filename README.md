@@ -46,7 +46,7 @@ I'm a fullstack developer based in Pretoria, South Africa. I'm passionate about 
 ## Analysis One
 An F1 Tracker App where you can keep track of F1 Events and details and compare metrics between teams to settle debates quickly and effectively with useful charts and clear data management. This app features a timeline feature that can gather up historical data about your favourite F1 team and see how they have improved over the years. Have a look below to have all your statistical questions about your F1 team answered.
 
-<a src="https://github.com/KBOlifant/formative-one-AnalysisOne"> Explore Repository </a>
+<a src="https://github.com/KBOlifant/formative-one-AnalysisOne">Explore Repository</a>
 
 <br />
 
