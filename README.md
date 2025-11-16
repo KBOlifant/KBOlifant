@@ -16,6 +16,8 @@ I'm a fullstack developer based in Pretoria, South Africa. I'm passionate about 
 
 💬 Ask me about React Development..
 
+- - - -
+
 # ``` ✦ Skills & Tech Stack✦```
 
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
@@ -64,7 +66,7 @@ Psychedelic Pixels is an e-commerce platform that showcases and sells unconventi
 ## Court Clinic
 <img src="https://github.com/KBOlifant/CourtClinic/blob/main/clinic/CourtClinicBanner.png" />
 
-A 1-3 sentence description of your project. What does it do? What problem does it solve? What was your role?
+Court Clinic is a digital marketplace that connects people who need legal help with lawyers looking for clients. It tackles two big issues: the public’s struggle to find affordable, suitable lawyers, and lawyers’ difficulty securing steady work. Defendants can browse lawyers or post their case with a budget and receive bids. Lawyers can showcase their profiles, explore an auction-style board of cases, and bid on those that match their skills; creating a transparent, efficient way for both sides to find the right fit.
 
 [![Explore Repository](https://img.shields.io/badge/Explore%20Repository-7952B3?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KBOlifant/CourtClinic)
 [![Explore Repository](https://img.shields.io/badge/View%20Live%20Application-107d24?style=for-the-badge&logoColor=white)](https://courtclinic.online)
@@ -74,9 +76,24 @@ A 1-3 sentence description of your project. What does it do? What problem does i
 <br /> <br />
 
 ✦ My Stats ✦
-<p align="center"> <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DYOUR_USERNAME%26show_icons%3Dtrue%26theme%3Dtokyonight" alt="Your GitHub Stats" /> <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs%3Fusername%3DYOUR_USERNAME%26show_icons%3Dtrue%26locale%3Den%26layout%3Dcompact%26theme%3Dtokyonight" alt="Top Languages" /> </p>
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=KBOlifant&show_icons=true&hide_border=false&bg_color=1A0B2E&title_color=9D4EDD&text_color=CBB8FF&icon_color=9D4EDD" 
+    alt="Andre's GitHub Stats" 
+    height="200"
+    width="43%"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=KBOlifant&show_icons=true&locale=en&layout=compact&hide_border=false&bg_color=1A0B2E&title_color=9D4EDD&text_color=CBB8FF&icon_color=9D4EDD" 
+    alt="Top Languages" 
+    height="200"
+    width="38.5%"
+  />
+</p>
 
-<p align="center"> </p>
+- - - -
+
+<br />
 
 <br /> <br />
 
