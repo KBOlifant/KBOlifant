@@ -1,10 +1,10 @@
-<p align="center"> <img src="YOUR_BANNER_URL.png" alt="Your Name - Banner" /> </p>
+<p align="center"> <img src="YOUR_BANNER_URL.png" alt="Keabetswe Olifant - Banner" /> </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=KBOlifant&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 
-<img src="https://img.shields.io/badge/YOUR_ROLE-YOUR_COLOR?style=flat-square&logo=YOUR_LOGO&logoColor=white" alt="Your Role" /> <img src="https://img.shields.io/badge/YOUR_TECH-YOUR_COLOR?style=flat-square&logo=YOUR_TECH_LOGO&logoColor=white" alt="Your Favorite Tech" /> <img src="https://img.shields.io/badge/YOUR_HOBBY-YOUR_COLOR?style=flat-square&logo=Programmer&logoColor=white" alt="Your Hobby" /> </p>
+<img src="https://img.shields.io/badge/FULLSTACK_DEVELOPER-YOUR_COLOR?style=flat-square&logo=YOUR_LOGO&logoColor=white" alt="Your Role" /> <img src="https://img.shields.io/badge/MERN_STACK_DEVELOPER-YOUR_COLOR?style=flat-square&logo=YOUR_TECH_LOGO&logoColor=white" alt="Your Favorite Tech" /> <img src="https://img.shields.io/badge/MICRO_ROBOTICS_PROGRAMMER-RED?style=flat-square&logo=Programmer&logoColor=white" alt="Your Hobby" /> <img src="https://img.shields.io/badge/GAME_DEVELOPER-RED?style=flat-square&logo=Programmer&logoColor=white" alt="Your Hobby" /> <img src="https://img.shields.io/badge/PIANIST-RED?style=flat-square&logo=Programmer&logoColor=white" alt="Your Hobby" /></p>
 
-<p align="center"> <img src="https://img.shields.io/badge/STATUS-Student-2E8B57?style=flat-square&logo=graduation-cap&logoColor=white" alt="Student" /> <img src="https://img.shields.io/badge/2027-Graduate-FF6B6B?style=flat-square&logo=calendar&logoColor=white" alt="Year" /> <img src="https://img.shields.io/badge/Time%20Zone-YOUR_TIMEZONE-FFA500?style=flat-square&logo=world&logoColor=white" alt="Time Zone" /> <img src="https://img.shields.io/badge/OS-Windows-000000?style=flat-square&logo=windows&logoColor=white" alt="OS" /> </p>
+<p align="center"> <img src="https://img.shields.io/badge/STATUS-Student-2E8B57?style=flat-square&logo=graduation-cap&logoColor=white" alt="Student" /> <img src="https://img.shields.io/badge/2027-Graduate-FF6B6B?style=flat-square&logo=calendar&logoColor=white" alt="Year" /> <img src="https://img.shields.io/badge/OS-Windows-000000?style=flat-square&logo=windows&logoColor=white" alt="OS" /> </p>
 
 👋 Hi, I'm Keabetswe Olifant
 I'm a fullstack developer based in Pretoria, South Africa. I'm passionate about Software Engineering and Making Useful applications. Welcome to my profile!
@@ -44,27 +44,30 @@ I'm a fullstack developer based in Pretoria, South Africa. I'm passionate about 
 # ✦ 2025 Repositories ✦
 
 ## Analysis One
+<img src="https://github.com/KBOlifant/formative-one-AnalysisOne/blob/main/analysisone/AnalysisOneBanner.png" />
+
 An F1 Tracker App where you can keep track of F1 Events and details and compare metrics between teams to settle debates quickly and effectively with useful charts and clear data management. This app features a timeline feature that can gather up historical data about your favourite F1 team and see how they have improved over the years. Have a look below to have all your statistical questions about your F1 team answered.
 
-[**Explore Repository**](https://github.com/KBOlifant/formative-one-AnalysisOne)
+[![Explore Repository](https://img.shields.io/badge/Explore%20Repository-7952B3?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KBOlifant/formative-one-AnalysisOne)
 
 <br />
 
 ## Psychedelic Pixels
-A 1-3 sentence description of your project. What does it do? What problem does it solve? What was your role?
+<img src="https://github.com/GabyNor05/Psychpix/blob/main/psychpix/psychBanner.png" />
 
-Technologies Used: [Tech 1], [Tech 2], [Tech 3], [Tech 4]
+Psychedelic Pixels is an e-commerce platform that showcases and sells unconventional, surreal, and imaginative artwork. It features a curated collection of unusual paintings, sculptures, and other creative pieces, giving art lovers and collectors a place to find bold, thought-provoking works outside the mainstream. The platform connects eccentric artists with audiences who appreciate bizarre, extraordinary art and celebrates creativity in its most unconventional forms.
 
-View Repository | Live Demo
+[![Explore Repository](https://img.shields.io/badge/Explore%20Repository-7952B3?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GabyNor05/Psychpix)
 
 <br />
 
 ## Court Clinic
+<img src="https://github.com/KBOlifant/CourtClinic/blob/main/clinic/CourtClinicBanner.png" />
+
 A 1-3 sentence description of your project. What does it do? What problem does it solve? What was your role?
 
-Technologies Used: [Tech 1], [Tech 2], [Tech 3], [Tech 4]
-
-View Repository | Live Demo
+[![Explore Repository](https://img.shields.io/badge/Explore%20Repository-7952B3?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KBOlifant/CourtClinic)
+[![Explore Repository](https://img.shields.io/badge/View%20Live%20Application-107d24?style=for-the-badge&logoColor=white)](https://courtclinic.online)
 
 <br />
 
