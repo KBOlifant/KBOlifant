@@ -6,11 +6,13 @@
 
 <p align="center"> <img src="https://img.shields.io/badge/STATUS-Student-2E8B57?style=flat-square&logo=graduation-cap&logoColor=white" alt="Student" /> <img src="https://img.shields.io/badge/2027-Graduate-FF6B6B?style=flat-square&logo=calendar&logoColor=white" alt="Year" /> <img src="https://img.shields.io/badge/OS-Windows-000000?style=flat-square&logo=windows&logoColor=white" alt="OS" /> </p>
 
+----
+
 👋 Hi, I'm Keabetswe Olifant
 I'm a fullstack developer based in Pretoria, South Africa. I'm passionate about Software Engineering and Making Useful applications. Welcome to my profile!
 
 🚀 What I'm Up To
-🌱 I’m currently learning [Technology/Skill].
+🌱 I’m currently learning how to play chess.
 
 💼 I’m open to Job Opportunities / Freelance Projects In the Software Engineering or Fullstack Development field.
 
@@ -89,39 +91,21 @@ Court Clinic is a digital marketplace that connects people who need legal help w
     height="200"
     width="38.5%"
   />
+
+  <img 
+  src="https://github-readme-activity-graph.vercel.app/graph?username=KBOlifant&bg_color=1A0B2E&color=CBB8FF&line=9D4EDD&point=CBB8FF&area=true&hide_border=false" 
+  width="100%"
+  />
 </p>
 
 - - - -
 
 <br />
+<br />
 
-<br /> <br />
+### ✦ Get in Touch ✦
+<div align="center"> <p> <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="LinkedIn" width="30"/> </p> <b>Email: 241299@virtualwindow.co.za</b></div>
+<br />
+<div align="center"> <p> <img src="https://img.icons8.com/color/48/000000/linkedin--v1.png" alt="LinkedIn" width="30"/> </p> <p href="https://www.linkedin.com/in/keabetswe-olifant-260258392/">Linked In: https://www.linkedin.com/in/keabetswe-olifant-260258392/</p></div>
+  
 
-✦ Get in Touch ✦
-<div align="center"> <p> <img src="https://img.icons8.com/color/48/000000/linkedin--v1.png" alt="LinkedIn" width="30"/>
-
-
-<b>LinkedIn</b>
-
-
-<a href="https://www.google.com/search?q=https://www.linkedin.com/in/YOUR_USERNAME/" target="_blank">https://www.google.com/search?q=linkedin.com/in/YOUR_USERNAME</a> </p> <p> <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="Email" width="30"/>
-
-
-<b>Email</b>
-
-
-<a href="mailto:YOUR_EMAIL@gmail.com">YOUR_EMAIL@gmail.com</a> </p> <p> <img src="https://www.google.com/search?q=https://img.icons8.com/color/48/000000/briefcase.png" alt="Portfolio" width="30"/>
-
-
-<b>Portfolio Site</b>
-
-
-<a href="https://YOUR_WEBSITE_URL.com" target="_blank">YOUR_WEBSITE_URL.com</a> </p> <p> <img src="https://www.google.com/search?q=https://img.icons8.com/color/48/000000/twitter--v1.png" alt="Twitter" width="30"/>
-
-
-<b>Twitter / X</b>
-
-
-<a href="https://www.google.com/search?q=https://www.twitter.com/YOUR_HANDLE" target="_blank">@YOUR_HANDLE</a> </p> </div>
-
-<p align="start"> <img src="https://64.media.tumblr.com/e642b66f8548fa1485621bd82d3eacc9/df8c8427627025f7-72/s540x810/fe599f5ee4ddb3eba0b316cd9e84ad2244fbb9c5.gifv" alt="cat" width="200" /> </p>
