@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://github.com/KBOlifant/KBOlifant/blob/main/Group%2013.pnghttps://github.com/KBOlifant/KBOlifant/blob/main/Group%2013.png" alt="Keabetswe Olifant - Banner" /> </p>
+<p align="center"> <img src="https://github.com/KBOlifant/KBOlifant/blob/main/Group%2013.png" alt="Keabetswe Olifant - Banner" /> </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=KBOlifant&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 
