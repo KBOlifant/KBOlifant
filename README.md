@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://github.com/KBOlifant/KBOlifant/blob/main/20251117_1858_Programmer%20in%20Luxurious%20Space_remix_01ka9bxn5jf0etfn1drs16m768.png" alt="Keabetswe Olifant - Banner" /> </p>
+<p align="center"> <img src="https://github.com/KBOlifant/KBOlifant/blob/main/Group%2013.pnghttps://github.com/KBOlifant/KBOlifant/blob/main/Group%2013.png" alt="Keabetswe Olifant - Banner" /> </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=KBOlifant&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 
