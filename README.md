@@ -22,7 +22,7 @@ I'm a fullstack developer based in Pretoria, South Africa, studying Creative Tec
 # ✦ Featured Projects ✦
 
 ## SheIsDesign
-<img src="assets/banner-sheisdesign.jpg" alt="SheIsDesign - a desktop app that helps a non-profit run its student mentorship programme" width="100%" />
+<img src="https://github.com/KBOlifant/KBOlifant/blob/main/banner-sheisdesign.jpg" alt="SheIsDesign - a desktop app that helps a non-profit run its student mentorship programme" width="100%" />
 
 A desktop app that helps the SheIsDesign non-profit run its mentorship programme for female creative university students, plus the mentors and sponsors who support them. Before this, the NGO had no platform at all. Now events, competitions, judging, a gallery and donations all live in one app.
 
@@ -50,7 +50,7 @@ A desktop app that helps the SheIsDesign non-profit run its mentorship programme
 <br />
 
 ## Habitat
-<img src="assets/banner-habitat.jpg" alt="Habitat - a habit breaker app with a bonsai tree" width="100%" />
+<img src="https://github.com/KBOlifant/KBOlifant/blob/main/banner-habitat.jpg" alt="Habitat - a habit breaker app with a bonsai tree" width="100%" />
 
 A calm habit-breaking companion for mobile. You pick a habit to break, swipe through a short daily reflection, journal honestly about triggers and relapses, and watch your streak grow a virtual bonsai. The core loop is built on research showing that journaling and awareness are the most effective ways to break a habit.
 
@@ -73,7 +73,7 @@ A calm habit-breaking companion for mobile. You pick a habit to break, swipe thr
 <br />
 
 ## Project MD
-<img src="assets/banner-projectmd.jpg" alt="Project MD - turns any website into a clear design and code breakdown, written in Markdown" width="100%" />
+<img src="https://github.com/KBOlifant/KBOlifant/blob/main/banner-projectmd.jpg" alt="Project MD - turns any website into a clear design and code breakdown, written in Markdown" width="100%" />
 
 Ever been inspired by a website but had no idea where to start? Project MD answers the questions developers and designers ask about their favourite sites: what design system is this, and how were these animations made? Paste a URL and it scrapes the site, analyses it with an LLM and hands you a clear breakdown as a Markdown document.
 
